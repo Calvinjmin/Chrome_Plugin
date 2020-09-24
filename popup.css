@@ -1,0 +1,14 @@
+/*
+Calvin Min
+File: popup.css
+*/
+body {
+    max-height: 300px;
+    width: 300px;
+    overflow: auto;
+}
+button{
+    height: 25px;
+    width: 100px;
+    color: blue;
+}
